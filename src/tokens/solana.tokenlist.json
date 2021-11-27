@@ -32666,6 +32666,20 @@
         "website": "http://hamlett-company.tk/"
       }
     }
+    {
+      "chainId": 101,
+      "address": "GRi1vZsn9zgyoCfecE2cU7qj2GcA87gqhmjpcmwZDzKt",
+      "symbol": "NJC",
+      "name": "Ninja Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GRi1vZsn9zgyoCfecE2cU7qj2GcA87gqhmjpcmwZDzKt/logo.png",
+      "tags": [
+        "social-token",
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/digita1chronic",
+      }
+    }
   ],
   "version": {
     "major": 0,
