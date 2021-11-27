@@ -32669,8 +32669,8 @@
     {
       "chainId": 101,
       "address": "GRi1vZsn9zgyoCfecE2cU7qj2GcA87gqhmjpcmwZDzKt",
-      "symbol": "NJC",
-      "name": "Ninja Coin",
+      "symbol": "CRON",
+      "name": "Chronic",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GRi1vZsn9zgyoCfecE2cU7qj2GcA87gqhmjpcmwZDzKt/logo.png",
       "tags": [
